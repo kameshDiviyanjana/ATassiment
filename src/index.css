@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+
+  .buttones{
+    @apply py-2 px-5 bg-seconcolor text-white
+  }
+}
