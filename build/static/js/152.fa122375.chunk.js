@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkatproject=self.webpackChunkatproject||[]).push([[152],{152:(e,t,s)=>{s.r(t),s.d(t,{default:()=>l});var c=s(128),a=s(496);const l=()=>(0,a.jsx)(a.Fragment,{children:(0,a.jsxs)("div",{className:" w-full h-[200px] bg-white py-10 px-10 ",children:[(0,a.jsx)("h1",{className:" text-4xl text-black font-serif",children:" contact"}),(0,a.jsx)(c.c,{sty:"buttones",name:"GET FREE CONSULTATION"})]})})}}]);
+//# sourceMappingURL=152.fa122375.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkatproject=self.webpackChunkatproject||[]).push([[348],{348:(e,t,s)=>{s.r(t),s.d(t,{default:()=>c});var a=s(496);const c=()=>(0,a.jsx)(a.Fragment,{children:(0,a.jsx)("div",{className:" w-full h-[200px] bg-white py-10 px-10 ",children:(0,a.jsx)("h1",{className:" text-4xl text-black font-serif",children:" About"})})})}}]);
+//# sourceMappingURL=348.3c11a726.chunk.js.map
